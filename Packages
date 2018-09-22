@@ -24,17 +24,17 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 
-Package: (com.iione.packagename)
-Name: Test
-Version: Test
+Package: (com.iione.phantom)
+Name: Phantom (Lite) for Snapchat
+Version: 5.3.8-6
 Size: (Size in Bytes)
 Architecture: iphoneos-arm
-Description: Test
+Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection
 Maintainer: (Test) <email@provider.com>
-Author: (iiONE) <email@provider.com>
+Author: (CokePokes) <email@provider.com>
 Section: Tweaks
 MD5sum:
 SHA1sum:
 SHA256sum:
-Filename: ./debs/com.iione.test.deb
+Filename: ./debs/phantom_5.3.8-6.deb
 
